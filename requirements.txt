@@ -1,0 +1,7 @@
+
+deepface
+torch
+torchvision
+opencv-python
+numpy
+pandas
